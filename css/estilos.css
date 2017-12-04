@@ -1,0 +1,16 @@
+.video {
+    z-index: 1;
+    margin: 0 auto;
+    position: relative;
+    margin: 10px 10px 10px 10px;
+    border: 3 px solid rgb(134, 115, 243);
+    border-radius: 20px;  
+
+}
+.camara{
+    z-index: 2;
+    justify-content: center;
+    position: absolute;
+    visibility: hidden;
+}
+

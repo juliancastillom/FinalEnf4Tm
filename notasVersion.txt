@@ -1,0 +1,39 @@
+Link Interfaz Base -> https://github.com/almasaeed2010/AdminLTE/releases
+
+notas Enf4
+
+-Se agrego  a la tabla usuario , la columna "type" necesaria para identificar los usuarios de los administradores
+-Se agrego -- archivo cerrarSesion
+-tamaño del videoRecomendaciones - inicioUsuario.php ... se hizo con style="height: 200px;" -- por ende no es responsiva
+-quite la extension de los videos -- .mp4 // pero esta se puede volver a acomodar
+-index_base.html y index2_base.html -> Archivo originales_base de la interfaz base
+
+-comente el encabezado de video.php .. una imagen
+-comente el encabezado -ultimas noticias- de inicioUsuario.php
+-comente al final de inicioUsuario.php -> 
+			<!-- AdminLTE dashboard demo (This is only for demo purposes)
+				<script src="dist/js/pages/dashboard2.js"></script>
+			-->
+			
+Tareas
+-Inicie videoRecomendaciones dando click sobre la imagen
+-Tag buscarvideo ... video.php
+-cambio de index.html a index.php -> variables de sesion
+-botones de categoria en las demas interfaces
+	javascript funcion
+	ya le hice en -> inicioUsuario.php 
+-unificar interfaces .. botones comunes
+-tamaño de videos minuaturas
+-definir si la publicidad va en todas las interfaces
+-cambiar la bd a relacional
+
+--------------------------------------------
+1.Agregar estrellas y su logica
+2.Se agrego videos categorias -- inicioUsuario.php
+3.Botones --Buscar videos .. se cambio a una sola interfaz -- inicioUsuario.php
+4.Se quito de inicioUsuario.php... al final la seccion de configuracion ...
+5. Revisar javascript inicioUsuario.js
+6. Registrar y su logica
+7.Se creo pageCategoria.php y su js...
+
+
